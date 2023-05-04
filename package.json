@@ -1,0 +1,24 @@
+{
+  "name": "learning-menager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danon321/learning-menager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danon321/learning-menager/issues"
+  },
+  "homepage": "https://github.com/danon321/learning-menager#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
